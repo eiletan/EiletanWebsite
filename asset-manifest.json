@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2210aa2d.css",
-    "main.js": "/static/js/main.e3d3614f.js",
+    "main.css": "/static/css/main.efc0401b.css",
+    "main.js": "/static/js/main.50f2961e.js",
     "static/js/787.19cbcf92.chunk.js": "/static/js/787.19cbcf92.chunk.js",
-    "static/media/Lakeside With Mountains.png": "/static/media/Lakeside With Mountains.4fbbb16c37bf698aeaea.png",
     "static/media/nhlchrome4.png": "/static/media/nhlchrome4.6d47ba7d2a483f2a05a1.png",
     "static/media/walmartmariomaker4.png": "/static/media/walmartmariomaker4.7cd0699565229ec5b2fe.png",
     "static/media/nhlelectron1.png": "/static/media/nhlelectron1.310a3d5fca036b1dc50a.png",
@@ -14,8 +13,10 @@
     "static/media/nhlchrome2.png": "/static/media/nhlchrome2.e766bda89a5cd67fa955.png",
     "static/media/pseudositeblocker1.png": "/static/media/pseudositeblocker1.a8e1bb7dddaf7909a5c4.png",
     "static/media/nhlchrome5.png": "/static/media/nhlchrome5.4257b42a13c02d10a36c.png",
+    "static/media/eiletanwebsite2.png": "/static/media/eiletanwebsite2.e077cf04fd2611f10b20.png",
     "static/media/walmartmariomaker3.png": "/static/media/walmartmariomaker3.036944f7f7c04bd6418a.png",
     "static/media/walmartmariomaker1.png": "/static/media/walmartmariomaker1.4dc76a34c566ba3707c4.png",
+    "static/media/eiletanwebsite1.png": "/static/media/eiletanwebsite1.066669268f7e327c05fc.png",
     "static/media/pyeadcrab1.png": "/static/media/pyeadcrab1.f56ee84e9b305c716b46.png",
     "static/media/nhlelectron4.png": "/static/media/nhlelectron4.31ea75499a4a31090ae1.png",
     "static/media/safecracker5.png": "/static/media/safecracker5.620ef7c9454e82bdc977.png",
@@ -32,12 +33,12 @@
     "static/media/pseudositeblocker2.png": "/static/media/pseudositeblocker2.c49b2c04b9d935dabf48.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.2210aa2d.css.map": "/static/css/main.2210aa2d.css.map",
-    "main.e3d3614f.js.map": "/static/js/main.e3d3614f.js.map",
+    "main.efc0401b.css.map": "/static/css/main.efc0401b.css.map",
+    "main.50f2961e.js.map": "/static/js/main.50f2961e.js.map",
     "787.19cbcf92.chunk.js.map": "/static/js/787.19cbcf92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2210aa2d.css",
-    "static/js/main.e3d3614f.js"
+    "static/css/main.efc0401b.css",
+    "static/js/main.50f2961e.js"
   ]
 }
