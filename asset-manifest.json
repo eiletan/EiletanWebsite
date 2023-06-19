@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EiletanWebsite/static/css/main.efc0401b.css",
+    "main.css": "/EiletanWebsite/static/css/main.1d8410eb.css",
     "main.js": "/EiletanWebsite/static/js/main.71c49688.js",
     "static/js/787.19cbcf92.chunk.js": "/EiletanWebsite/static/js/787.19cbcf92.chunk.js",
     "static/media/nhlchrome4.png": "/EiletanWebsite/static/media/nhlchrome4.6d47ba7d2a483f2a05a1.png",
@@ -33,12 +33,12 @@
     "static/media/pseudositeblocker2.png": "/EiletanWebsite/static/media/pseudositeblocker2.c49b2c04b9d935dabf48.png",
     "static/media/logo.svg": "/EiletanWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/EiletanWebsite/index.html",
-    "main.efc0401b.css.map": "/EiletanWebsite/static/css/main.efc0401b.css.map",
+    "main.1d8410eb.css.map": "/EiletanWebsite/static/css/main.1d8410eb.css.map",
     "main.71c49688.js.map": "/EiletanWebsite/static/js/main.71c49688.js.map",
     "787.19cbcf92.chunk.js.map": "/EiletanWebsite/static/js/787.19cbcf92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efc0401b.css",
+    "static/css/main.1d8410eb.css",
     "static/js/main.71c49688.js"
   ]
 }
